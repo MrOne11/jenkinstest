@@ -7,7 +7,9 @@ public class HelloWorld {
 
 	}
 
-	public int calculer(int a, int b){
-		return a*b;
+	public void calculer(int a, int b){
+		a=4;
+		b=6;
+		System.out.println(a*b); ;
 	}
 }
