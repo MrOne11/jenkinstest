@@ -5,7 +5,7 @@ public class HelloWorld {
 		int c=a*b;
 	};
 	public static void main(String[] args) {
-		System.out.println("***********Hellow World ***********");
+		System.out.println("[---- Hello World -----]");
 		
 		//Comment
 		
